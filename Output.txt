@@ -1,0 +1,64 @@
+Please Enter Number of Barbers in Shop here!
+1
+Barbers available are 1
+Shop Opened
+Customer1 enters shop
+Customer1 is getting hair cut.
+Customer2 enters shop
+Customer3 enters shop
+Customer3 is in waiting area.
+Customer4 enters shop
+Customer4 is in waiting area.
+Customer5 enters shop
+Customer5 is in waiting area.
+Customer6 enters shop
+Customer6 is in waiting area.
+Customer7 enters shop
+Customer7 is in waiting area.
+Customer8 enters shop
+Customer8 is in waiting area.
+Customer1 exits after getting hair cut.
+Customer2 is getting hair cut.
+Customer9 enters shop
+Customer9 is in waiting area.
+Customer10 enters shop
+Customer10 is in waiting area.
+Customer11 enters shop
+Customer11 is in waiting area.
+Customer12 enters shop
+Customer12 is in waiting area.
+Customer13 enters shop
+Customer13 is in waiting area.
+Customer2 exits after getting hair cut.
+Customer3 is getting hair cut.
+Customer14 enters shop
+Customer14 is in waiting area.
+Customer15 enters shop
+Customer15 is in waiting area.
+Customer16 enters shop
+Customer16 is in waiting area.
+Customer17 enters shop
+Customer17 is in waiting area.
+Customer18 enters shop
+Customer18 is in waiting area.
+Customer3 exits after getting hair cut.
+Customer4 is getting hair cut.
+Customer19 enters shop
+Customer19 is in waiting area.
+Customer20 enters shop
+Customer exits as no seats are available
+Customer21 enters shop
+Customer exits as no seats are available
+Customer22 enters shop
+Customer exits as no seats are available
+Customer4 exits after getting hair cut.
+Customer5 is getting hair cut.
+Customer23 enters shop
+Customer23 is in waiting area.
+Customer24 enters shop
+Customer exits as no seats are available
+.
+.
+.
+.
+...
